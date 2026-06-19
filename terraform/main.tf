@@ -51,6 +51,6 @@ module "eks" {
   }
 
   tags = {
-  Project = "production-k8s-platform"
+    Project = "production-k8s-platform"
   }
 }
